@@ -1,0 +1,13 @@
+Correct:
+
+|sentence1|sentence2|label|predicted
+0|An Asian man in colorful robes holds a bell and leans toward a small table , with Buddhist or <unk> decorations on the table and the walls .|An Asian man in colorful light robes holds a bell .|entailment|entailment
+1|Older man with white hair and a red cap painting the golden gate bridge on the shore with the golden gate bridge in the distance .|A person with a cap|entailment|entailment
+2|Three women in festive dresses are dancing in a large city street while a large crowd is behind them holding up a banner .|Three women dance in front of a large crowd|entailment|entailment
+
+Incorrect:
+
+|sentence1|sentence2|label|predicted
+0|A kid in a red and black coat is laying on his back in the snow with his arm in the air and a red sled is next to him .|It is a cold day .|entailment|neutral
+1|A woman , wearing a white shirt and green shorts , sitting on a rock in a beautiful body of water .|The woman is barefoot .|neutral|contradiction
+2|A football coach guiding one of his players on what he should do .|The player already <unk> what he was doing .|contradiction|entailment
