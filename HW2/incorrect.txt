@@ -1,4 +1,0 @@
-|sentence1|sentence2|label|predicted
-0|A kid in a red and black coat is laying on his back in the snow with his arm in the air and a red sled is next to him .|It is a cold day .|entailment|neutral
-1|A woman , wearing a white shirt and green shorts , sitting on a rock in a beautiful body of water .|The woman is barefoot .|neutral|contradiction
-2|A football coach guiding one of his players on what he should do .|The player already <unk> what he was doing .|contradiction|entailment
